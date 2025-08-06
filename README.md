@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manaswini, a Sophomore engineering student.
+- 👋 Hi, I’m Manaswini, a Final year engineering student.
 - 👀 I’m interested in exploring various interdisciplinary tech applications.
 - 🌱 I’m currently learning web development and data science.
 - 💞️ I’m looking to collaborate on ...
